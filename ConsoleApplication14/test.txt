@@ -1,0 +1,7 @@
+car
+main
+molotok
+mouse
+house
+pay
+money
